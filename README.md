@@ -1,6 +1,5 @@
 # Burger King Sentiment Analysis
-This repository contains code for performing sentiment analysis on tweets about Burger King using Python,  BeautifulSoup and natural language processing libraries.
-
+This repository contains code for analyzing sentiment of reviews of Burger King restaurants scraped from Yelp.com using Python and the BeautifulSoup library.
 ## Dataset
 The dataset used in this project was obtained by scraping reviews of Burger King restaurants from [Yelp](Yelp.com). The dataset contains text reviews and star ratings of Burger King restaurants across various locations in the United States.
 ## Requirements
